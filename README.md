@@ -1,8 +1,5 @@
 
 
-<!--
-**Ghouse476/Ghouse476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I am an Automation Tester with hands-on experience in designing, developing, and maintaining automated test frameworks. I have strong knowledge of Java, Selenium, TestNG, API testing, and Git, with a focus on improving test coverage, reducing regression time, and ensuring high-quality software delivery. I work closely with developers and product teams to identify issues early and deliver reliable, scalable test solutions.
 
